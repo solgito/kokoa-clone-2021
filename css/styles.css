@@ -29,5 +29,5 @@ body {
   padding: 0px var(--horizontal-space);
 }
 
-/* Components */
+/* Component */
 @import "components/nav-bar.css";
